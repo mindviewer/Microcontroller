@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\clk.o"
+".\objects\eadc.o"
+".\objects\ebi.o"
+".\objects\fmc.o"
+".\objects\gpio.o"
+".\objects\gui_x.o"
+".\objects\guiconf.o"
+".\objects\lcdconf.o"
+".\objects\mygui.o"
+"..\LAB3\lab3\MPD_M480\M480_source\NUemWin_CM4_Keil.lib"
+".\objects\sdh.o"
+".\objects\sys.o"
+".\objects\timer.o"
+".\objects\uart.o"
+".\objects\main.o"
+".\objects\bnctl.o"
+".\objects\display.o"
+".\objects\stepmotoragent.o"
+".\objects\system_init.o"
+".\objects\tmr.o"
+".\objects\retarget.o"
+".\objects\startup_m480.o"
+".\objects\system_m480.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\lab3.map" -o .\Objects\lab3.axf

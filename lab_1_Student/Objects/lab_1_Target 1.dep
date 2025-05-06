@@ -1,0 +1,32 @@
+Dependencies for Project 'lab_1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x65D2B667)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\MPD_M480\House_ware -I .\MPD_M480\Include-I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc-D__UVISION_VERSION="533" -D_RTE_ -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\M480.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h)(0x657FE048)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x657FE048)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x657FE048)
+F (.\MPD_M480\M480_source\clk.c)(0x65AF50D8)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\MPD_M480\House_ware -I .\MPD_M480\Include-I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc-D__UVISION_VERSION="533" -D_RTE_ -D_RTE_-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\NuMicro.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\M480.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h)(0x657FE048)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x657FE048)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x657FE048)
+F (..\..\..\lab_1\MPD_M480\M480_source\gpio.c)(0x00000000)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\MPD_M480\House_ware -I .\MPD_M480\Include-I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc-D__UVISION_VERSION="533" -D_RTE_ -D_RTE_-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+F (RTE\Device\M487JIDAE\retarget.c)(0x646435B6)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\MPD_M480\House_ware -I .\MPD_M480\Include-I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc-D__UVISION_VERSION="533" -D_RTE_ -D_RTE_-o .\objects\retarget.o --omf_browse .\objects\retarget.crf --depend .\objects\retarget.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\NuMicro.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\M480.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h)(0x657FE048)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x657FE048)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x657FE048)
+F (RTE\Device\M487JIDAE\startup_M480.s)(0x646435B6)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_m480.lst --xref -o .\objects\startup_m480.o --depend .\objects\startup_m480.d)
+F (RTE\Device\M487JIDAE\system_M480.c)(0x646435B6)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\MPD_M480\House_ware -I .\MPD_M480\Include-I.\RTE\_Target_1-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include-ID:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\StdDriver\inc-D__UVISION_VERSION="533" -D_RTE_ -D_RTE_-o .\objects\system_m480.o --omf_browse .\objects\system_m480.crf --depend .\objects\system_m480.d)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\NuMicro.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.22\Device\M480\Include\M480.h)(0x646435B6)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h)(0x657FE048)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x657FE048)
+I (D:\Keil_v5\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x657FE048)
